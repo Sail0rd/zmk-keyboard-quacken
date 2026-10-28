@@ -3,11 +3,11 @@
 
 manifest:
   remotes:
-    - name: OneDeadKey
-      url-base: https://github.com/OneDeadKey
+    - name: Sail0rd
+      url-base: https://github.com/Sail0rd
   projects:
     - name: zmk-config-aekeynox
-      remote: OneDeadKey
+      remote: Sail0rd
       revision: main
       import: config/west.yml
   self:
